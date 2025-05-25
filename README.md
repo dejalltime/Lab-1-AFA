@@ -40,7 +40,7 @@ This function inserts a record into an Azure SQL Database upon HTTP trigger.
 - [Add Azure SQL output binding](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-python)
 
 ## Demo Video
-Watch the full demo here: [YouTube Demo](https://youtube.com/your-demo-link)
+Watch the full demo here: [YouTube Demo](https://youtu.be/YhOShEGOtTU)
 
 ---
 
