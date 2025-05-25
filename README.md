@@ -30,7 +30,7 @@ This function is triggered via an HTTP request and sends a message to an Azure S
 1. https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python
 2. https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-python&tabs=isolated-process
 
-## 🗃️ Function 2: Azure SQL Output Binding
+## Function 2: Azure SQL Output Binding
 
 ### Overview
 This function inserts a record into an Azure SQL Database upon HTTP trigger.
