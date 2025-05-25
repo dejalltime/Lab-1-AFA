@@ -14,9 +14,9 @@ Both functions are written in Python and developed using Visual Studio Code.
 ### Prerequisites
 - Python 3.10
 - Azure Portal
+- Azure Subscription
 - Azure Functions Core Tools v4
 - Visual Studio Code with Azure Functions, Azure Storage, Azurite, and Python extensions
-- Azure Subscription
 - Azure Storage Explorer
 
 ---
@@ -26,18 +26,18 @@ Both functions are written in Python and developed using Visual Studio Code.
 ### Overview
 This function is triggered via an HTTP request and sends a message to an Azure Storage Queue.
 
-### Setup
-1. https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python
-2. https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-python&tabs=isolated-process
+### Guides Followed
+- [Create your first function](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
+- [Add output binding to Azure Storage Queue](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-python&tabs=isolated-process)
 
 ## Function 2: Azure SQL Output Binding
 
 ### Overview
 This function inserts a record into an Azure SQL Database upon HTTP trigger.
 
-### Setup
-1. https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal
-2. https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-python
+### Guides Followed
+- [Create Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal)
+- [Add Azure SQL output binding](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-python)
 
 ## Demo Video
 Watch the full demo here: [YouTube Demo](https://youtube.com/your-demo-link)
